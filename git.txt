@@ -1,0 +1,2 @@
+git is a version control system where we store a complete application source code 
+
