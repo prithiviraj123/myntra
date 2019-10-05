@@ -1,2 +1,3 @@
 git is a version control system where we store a complete application source code 
+git is a source code management tool:wq
 
