@@ -1,9 +1,0 @@
-devops 
-git
-maven
-jenkins
-docker
-ansible
-chef 
-puppet
-
